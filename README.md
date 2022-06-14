@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PattyGioche
-- 👀 I’m interested in GAMING APPS
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on gaming app development
+- 💞️ I’m looking to collaborate on mobile app development
 - 📫 How to reach me patriciagioche12@gmail.com
 
 <!---
