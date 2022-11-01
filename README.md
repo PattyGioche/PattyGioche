@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PattyGioche
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on mobile app development
 - 📫 How to reach me patriciagioche12@gmail.com
 
